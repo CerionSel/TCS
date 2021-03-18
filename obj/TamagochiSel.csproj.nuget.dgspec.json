@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\danii\\source\\repos\\TamagochiSel\\TamagochiSel\\TamagochiSel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\danii\\source\\repos\\TamagochiSel\\TamagochiSel\\TamagochiSel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\danii\\source\\repos\\TamagochiSel\\TamagochiSel\\TamagochiSel.csproj",
+        "projectName": "TamagochiSel",
+        "projectPath": "C:\\Users\\danii\\source\\repos\\TamagochiSel\\TamagochiSel\\TamagochiSel.csproj",
+        "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danii\\source\\repos\\TamagochiSel\\TamagochiSel\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "MonoGame.Content.Builder.Task": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "MonoGame.Framework.Android": {
+              "target": "Package",
+              "version": "[3.8.0.1641, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

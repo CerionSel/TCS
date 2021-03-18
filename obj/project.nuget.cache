@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0+4i3zuGUuW+kQnt7D0Gj7xp8Oh8tfo1+xD8fGuPfWoNeZ5ijFoTG0sxye/Nv2lW5wSDB1zTcCnIlI41JNTwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danii\\source\\repos\\TamagochiSel\\TamagochiSel\\TamagochiSel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danii\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\monogame.framework.android\\3.8.0.1641\\monogame.framework.android.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
