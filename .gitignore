@@ -1,0 +1,5 @@
+
+*.apk
+/bin/
+/obj/Debug/
+/obj/.cache/
